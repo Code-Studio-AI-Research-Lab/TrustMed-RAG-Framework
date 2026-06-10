@@ -38,6 +38,4 @@ Every paper you read must be logged immediately into `Literature_Review/Research
 | *e.g., Gao et al., 2024 (ACL)* | General text/Wikipedia | Overview of simple retrieval vs generation checks. | General QA | Classified RAG models into Advanced and Modular branches. | Focused entirely on general knowledge; did not address high-stakes medical constraints where a single citation mismatch breaks clinical safety. | Rahim |
 | **[Your Entry]** | | | | | | Your Name |
 
-### How to add your entry:
-1. Open `Literature_Review/Research_Matrix.md` in your text/code editor.
-2. Scroll to the bottom of the table and add a new row using pipe (`|`) boundaries.
+
